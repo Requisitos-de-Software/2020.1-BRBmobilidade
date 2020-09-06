@@ -1,3 +1,3 @@
-# Amazon Prime Video
+# BRB Mobilidade
 
-Repositório desinado à elicitação de requisitos para o aplicativo *Amazon Prime Video*
+Repositório desinado à elicitação de requisitos para o aplicativo *BRB Mobilidade*
