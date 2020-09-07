@@ -6,8 +6,17 @@
 
 ![alt text](images/horarios.png)
 
+## Ferramentas utilizadas
+| Ferramentas| Nome| Descrição |
+| :------------- :|:--------------:| :-----------:|
+| ![alt text](images/github.png)| Github|O Github será utilizado para versionamento e armazenamento de todos os documentos|
+| ![alt text](images/zenhub.jpeg)| ZenHub |O Zenhub será utilizado para a organização e planejamento do grupo|
+| ![alt text](images/googleDrive.jpeg)| Google Drive |O Google Drive será utilizado para a criação de documentos compartilhaveís entre o grupo|
+| ![alt text](images/telegram.jpeg)| Telegram |O Telegram será utilizado para a comunicação do grupo|
+
 ## Versionamento
 | Versão| Data| Alteração | Integrante |
 | :------------- :|:--------------:| :-----------:|:----------:|
 | 1.0| 06/09 |Criação do pages e adição do planejamento| [Gabriel Hussein](https://github.com/GabrielHussein)|
 | 1.1| 06/09 |Adição das imagens e nomes dos integrantes| [Arthur Paiva](https://github.com/ArthurPaivaT)|
+| 1.2| 07/09 |Adição das Ferramentas utilizadas| [Iago Theóphilo](https://github.com/IagoTheophilo)|
