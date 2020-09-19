@@ -2,6 +2,7 @@ site_name: BRB Mobilidade
 nav:
   - Home: index.md
   - Planejamento: planejamento.md
+  - Elicitação de requisitos: elicitação.md
 theme:
   name: null
   custom_dir: mkdocs-material/material
