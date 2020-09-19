@@ -14,9 +14,14 @@
 | ![alt text](images/googleDrive.jpeg)| Google Drive |O Google Drive será utilizado para a criação de documentos compartilhaveís entre o grupo|
 | ![alt text](images/telegram.jpeg)| Telegram |O Telegram será utilizado para a comunicação do grupo|
 
+## Cronograma
+A equipe utilizará um cronograma que separa em módulos cada entrega a ser feita na wiki
+![alt text](images/cronograma.png)
+
 ## Versionamento
 | Versão| Data| Alteração | Integrante |
 | :------------- :|:--------------:| :-----------:|:----------:|
 | 1.0| 06/09 |Criação do pages e adição do planejamento| [Gabriel Hussein](https://github.com/GabrielHussein)|
 | 1.1| 06/09 |Adição das imagens e nomes dos integrantes| [Arthur Paiva](https://github.com/ArthurPaivaT)|
 | 1.2| 07/09 |Adição das Ferramentas utilizadas| [Iago Theóphilo](https://github.com/IagoTheophilo)|
+| 1.3| 19/09 |Adição do cronograma| [Gabriel Hussein](https://github.com/GabrielHussein) e [Danilo Domingo](https://github.com/danilow200)|
