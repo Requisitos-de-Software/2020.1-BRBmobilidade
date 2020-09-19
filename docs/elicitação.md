@@ -23,4 +23,4 @@
 ## Versionamento
 | Versão| Data| Alteração | Integrante |
 | :------------- :|:--------------:| :-----------:|:----------:|
-| 1.0| 06/09 |Adição da priorização e técnica MoSCoW| [Gabriel Hussein](https://github.com/GabrielHussein)|
+| 1.0| 19/09 |Adição da priorização e técnica MoSCoW| [Gabriel Hussein](https://github.com/GabrielHussein)|
