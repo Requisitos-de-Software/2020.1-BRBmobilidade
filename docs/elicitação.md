@@ -20,7 +20,7 @@
 #### Would have
   Requisitos menos críticos, com pouco retorno sobre os recursos e tempo investidos e com pouca prioridade, necessitando de concordância dos clientes. Geralmente atrelados a mudanças mais estéticas. Não são planejados para um entrega próxima mas também não serão descartados podendo entrar em uma mudança futura.
 
-  # Introspecção
+# Introspecção
 
   Introspecção é uma técnica muita rica e profunda. Consiste em enter quais propriedades o sistema deve possuir para que seja um sucesso.
 
