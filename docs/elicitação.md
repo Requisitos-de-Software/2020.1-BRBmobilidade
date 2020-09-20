@@ -20,7 +20,50 @@
 #### Would have
   Requisitos menos críticos, com pouco retorno sobre os recursos e tempo investidos e com pouca prioridade, necessitando de concordância dos clientes. Geralmente atrelados a mudanças mais estéticas. Não são planejados para um entrega próxima mas também não serão descartados podendo entrar em uma mudança futura.
 
+  # Introspecção
+
+  Introspecção é uma técnica muita rica e profunda. Consiste em enter quais propriedades o sistema deve possuir para que seja um sucesso.
+
+## Contexto
+
+O contexto dessa introspecção é de um úsario que busca recarrega o seu cartão.
+
+### Necessidades Técnicas
+
+- Que o app tenha uma ferramenta para disponilizar locais de recarga
+- Que o app possa gerar boleto
+
+### Necessidades Sociais
+
+- Que tenha opção de ver informações do ponto de recarga (horário de funcionamento, endereço, telefone)
+
+### Necessidades Individuais
+
+- Customizar o valor de recarga
+- Acesso ao saldo atual do cartão
+- Acesso ao extrato do cartão
+- Poder alterar o cartão
+
+# Observação do Aplicativo
+
+A obeservação é uma técnica que possibilita observar, no próprio ambiente, na qual o software será implantada, as tarefas sendo executadas pelos interessadas, sem interferir no ambiente.
+
+## Pontos Positivos
+
+- Fácil usabilidade
+- Controle de saldo (recarga pelo aplicativo e acesso ao extrato)
+- Acesso as linhas e horarios dos ônibus
+- Poder cadastrar vários cartões
+- Informação sobre pontos de recarga
+
+## Pontos Negativos
+- Área do estudante é a mesma do site, utilizando um navegador dentro do próprio aplicativo
+- Não possui acesso as linhas e horariros dos ônibus sem fazer login
+- Não possui acesso as informações do ponto de recarga
+- So pode fazer recarga pelo aplicativo através de boleto bancário
+
 ## Versionamento
 | Versão| Data| Alteração | Integrante |
 | :------------- :|:--------------:| :-----------:|:----------:|
 | 1.0| 19/09 |Adição da priorização e técnica MoSCoW| [Gabriel Hussein](https://github.com/GabrielHussein)|
+| 1.1| 19/09 |Adição da introspecção e observação| [Danilo Domingo](https://github.com/danilow200)|
