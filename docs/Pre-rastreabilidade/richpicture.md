@@ -7,4 +7,4 @@
 ## Versionamento
 | Versão| Data| Alteração | Integrante |
 | :------------- :|:--------------:| :-----------:|:----------:|
-| 1.0| 23/10 |Adição da Introdução e Vissão Geral v0| [Iago Theóphilo](https://github.com/IagoTheophilo)|s
+| 1.0| 23/09 |Adição da Introdução e Vissão Geral v0| [Iago Theóphilo](https://github.com/IagoTheophilo)|s
