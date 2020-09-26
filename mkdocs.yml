@@ -5,6 +5,8 @@ nav:
   - Pré-rastreabilidade:
     - Rich Picture: Pre-rastreabilidade/richpicture.md
   - Elicitação de requisitos: elicitação.md
+  - Técnicas: 
+    - Introspecção: introspeccao.md
 theme:
   name: null
   custom_dir: mkdocs-material/material
