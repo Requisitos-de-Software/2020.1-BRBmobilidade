@@ -9,6 +9,7 @@ nav:
     - Priorização: Elicitação/priorização.md
     - Observação: Elicitação/observação.md
     - Introspecção: Elicitação/introspeccao.md
+  - Apresentações: Apresentações/planejamento.md
 theme:
   name: null
   custom_dir: mkdocs-material/material
