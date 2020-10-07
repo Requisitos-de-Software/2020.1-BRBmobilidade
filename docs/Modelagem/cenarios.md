@@ -1,5 +1,9 @@
 # Cenários
 
+Um cenário é uma estratégia reconhecida para compreender as interações entre ambiente e sistema, bem como elicitar a parte comportamental do software, sua dinâmica e/ou seu fluxos,apresentando os envolvidos e como eles interagem como o sistema, em uma tentativa de demonstrar de forma mais dinâmica como os requisitos levantados aparecem no aplicativo.
+
+Para o BRBMobilidade, alguns cenários de uso foram levantados:
+
 ## Cenário 1
 
 |**Login no App**|
@@ -133,3 +137,8 @@
 |Internet indisponível, Rede celular indisponível, Localidade indisponível|
 |**Exceção**   |
 |<p>Sem acesso ao Smartphone</p> <p>Internet indisponível</p>|
+
+## Versionamento
+| Versão| Data| Alteração | Integrante |
+| :------------- :|:--------------:| :-----------:|:----------:|
+| 1.0| 07/10 |Adição dos Cenários 1 a 7| [Arthur Paiva](https://github.com/ArthurPaivaT)|
