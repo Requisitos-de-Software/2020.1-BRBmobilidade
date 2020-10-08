@@ -1,6 +1,7 @@
 site_name: BRB Mobilidade
 nav:
   - Home: index.md
+  - Apresentações: Apresentações/planejamento.md
   - Planejamento: planejamento.md
   - Pré-rastreabilidade:
     - Rich Picture: Pre-rastreabilidade/richpicture.md
@@ -9,10 +10,11 @@ nav:
     - Priorização: Elicitação/priorização.md
     - Observação: Elicitação/observação.md
     - Introspecção: Elicitação/introspeccao.md
-  - Apresentações: Apresentações/planejamento.md
+  
   - Modelagem de Requisitos:
     - Cenários: Modelagem/cenarios.md
     - Especificação Suplementar: Modelagem/especificacao_suplementar.md
+    - Caso de uso: Modelagem/casosdeuso.md
 theme:
   name: null
   custom_dir: mkdocs-material/material
