@@ -12,6 +12,7 @@ nav:
   - Apresentações: Apresentações/planejamento.md
   - Modelagem de Requisitos:
     - Cenários: Modelagem/cenarios.md
+    - Especificação Suplementar: Modelagem/especificacao_suplementar.md
 theme:
   name: null
   custom_dir: mkdocs-material/material
