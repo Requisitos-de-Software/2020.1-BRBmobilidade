@@ -15,6 +15,7 @@ nav:
     - Cenários: Modelagem/cenarios.md
     - Especificação Suplementar: Modelagem/especificacao_suplementar.md
     - Caso de uso: Modelagem/casosdeuso.md
+    - Léxicos: Modelagem/lexicos.md
 theme:
   name: null
   custom_dir: mkdocs-material/material
