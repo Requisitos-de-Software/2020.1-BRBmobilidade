@@ -1,7 +1,7 @@
 site_name: BRB Mobilidade
 nav:
   - Home: index.md
-  - Apresentações: Apresentações/planejamento.md
+  - Apresentações: Apresentações/apresentacao.md
   - Planejamento: planejamento.md
   - Pré-rastreabilidade:
     - Rich Picture: Pre-rastreabilidade/richpicture.md
