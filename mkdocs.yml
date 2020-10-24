@@ -16,6 +16,7 @@ nav:
     - Especificação Suplementar: Modelagem/especificacao_suplementar.md
     - Caso de uso: Modelagem/casosdeuso.md
     - Léxicos: Modelagem/lexicos.md
+    - NFR: Modelagem/nfr.md
 theme:
   name: null
   custom_dir: mkdocs-material/material
