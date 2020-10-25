@@ -28,6 +28,8 @@ Após utilizar o aplicativo como um usuário comum foi possível elencar os requ
 | RF06 | Funcionalidade de favoritar linhas específicas de ônibus para acesso mais rápido | Should | FE|
 | RF07 | Seção para perguntas frequentes para tirar dúvidas de novos usuários | Could | FE|
 | RF08 | Possibilidade de cadastrar mais de um cartão | Could | FE|
+| RF09 | Fazer Login como usuário já cadastrado | Must | FE |
+| RF10 | Visualizar saldo do cartão | Must | FE |
 | RNF01 | Notificar o usuário que ele está prestes a acessar um site externo e o redirecionar ao navegador padrão do celular. | Would | NIF|
 | RNF02 | Ao pesquisar o número da linha fazer filtragem por semelhança de número ao invés de só mostrar número exato | Could | NIF|
 | RNF03 | Fornecimento de suporte ao usuário | Could | FE|
@@ -42,11 +44,11 @@ Após utilizar o aplicativo como um usuário comum foi possível elencar os requ
 
 | Código | Descrição | Prioridade |Categoria|
 | --- | --- | --- |---|
-| RF09 | Listar ônibus de determinada região  | Could |NIF|
-| RF10 | Possibilitar listar rotas origem/destino | Could |NIF|
-| RF11 | Possibilitar ver o Extrato de uso | Must |FE|
-| RF12 | Possibilidade de recaregar o cartão | Must  |FE|
-| RF13 | Possibilitar o usuario ver as linhas e horários dos ônibus | Must |FE|
+| RF11 | Listar ônibus de determinada região  | Could |NIF|
+| RF12 | Possibilitar listar rotas origem/destino | Could |NIF|
+| RF13 | Possibilitar ver o Extrato de uso | Must |FE|
+| RF14 | Possibilidade de recaregar o cartão | Must  |FE|
+| RF15 | Possibilitar o usuario ver as linhas e horários dos ônibus | Must |FE|
 | RNF04 | Ao pesquisar o número da linha fazer filtragem do número| Should |FE|
 | RNF05 | Desenvolver um aplicativo fácil de usar| Should  |FE|
 
