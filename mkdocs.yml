@@ -17,6 +17,7 @@ nav:
     - Caso de uso: Modelagem/casosdeuso.md
     - Léxicos: Modelagem/lexicos.md
     - NFR: Modelagem/nfr.md
+    - Backlog e História de Usuário: Modelagem/backlog-historia.md
 theme:
   name: null
   custom_dir: mkdocs-material/material
