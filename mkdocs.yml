@@ -20,6 +20,7 @@ nav:
     - Backlog e História de Usuário: Modelagem/backlog-historia.md
   - Análise:
     - Validação: Analise/Validacao/prototipo.md
+    - Verificação: Analise/Verificacao/verificacaoBacklog.md
 theme:
   name: null
   custom_dir: mkdocs-material/material
