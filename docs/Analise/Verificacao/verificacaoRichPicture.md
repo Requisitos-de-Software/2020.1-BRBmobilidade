@@ -16,7 +16,7 @@ A inspeção é feita para a verificação de cada Léxico seguindo os critério
 
 | Rich Pictures  | Critério 1 | Critério 2| Critério 3 | Critério 4| Critério 4|
 |----------------|------------|-----------|------------|-----------|-----------|
-| Rich Picture 1 |     x      |     ✔     |      ✔     |     ✔     |     ✔     |
+| Rich Picture 1 |     ❌      |     ✔     |      ✔     |     ✔     |     ✔     |
 
 ## Versionamento
 | Versão| Data| Alteração | Integrante |

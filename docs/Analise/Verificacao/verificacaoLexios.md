@@ -16,14 +16,14 @@ A inspeção é feita para a verificação de cada Léxico seguindo os critério
 | Léxicos  | Critério 1 | Critério 2| Critério 3 | Critério 4|
 |----------|------------|-----------|------------|-----------|
 | Léxico 1 | ✔          |      ✔    |     ✔      |✔          |
-| Léxico 2 | ✔          |      x    |     ✔      |x          |
+| Léxico 2 | ✔          |      ❌   |     ✔     |❌          |
 | Léxico 3 | ✔          |      ✔    |     ✔      |✔          |
 | Léxico 4 | ✔          |      ✔    |     ✔      |✔          |
 | Léxico 5 | ✔          |      ✔    |     ✔      |✔          |
 | Léxico 6 | ✔          |      ✔    |     ✔      |✔          |
 | Léxico 7 | ✔          |      ✔    |     ✔      |✔          |
-| Léxico 8 | ✔          |      x    |     ✔      |✔          |
-| Léxico 9 | ✔          |      x    |     ✔      |✔          |
+| Léxico 8 | ✔          |      ❌   |     ✔      |✔          |
+| Léxico 9 | ✔          |      ❌   |     ✔      |✔          |
 
 ## Versionamento
 | Versão| Data| Alteração | Integrante |
