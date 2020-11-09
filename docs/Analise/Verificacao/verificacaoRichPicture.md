@@ -1,6 +1,6 @@
 # Verificação - Rich Picure
 
- Este documento visa verificar os Rich Picture para detectar os erros e defeitos antes de finalizar o projeto. Os Rich Picure será analisado a forma como foram escritas e organizadas as histórias de usuário. Foi utilizado o Checklist com critérios de aceitação para fazer essa verificação, o que facilita a identificação de erros.
+ Este documento visa verificar os Rich Picture para detectar os erros e defeitos antes de finalizar o projeto. Os Rich Picure serão analisados a forma como foram escritas e organizadas os Rich Pictures. Foi utilizado o Checklist com critérios de aceitação para fazer essa verificação, o que facilita a identificação de erros.
 
 ## Checklist - Critérios
 

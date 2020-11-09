@@ -1,13 +1,13 @@
-# Verificação - Léxios
+# Verificação - Léxicos
 
- Este documento visa verificar os Léxios para detectar os erros e defeitos antes de finalizar o projeto. Os Léxios será analisado a forma como foram escritas e organizadas as histórias de usuário. Foi utilizado o Checklist com critérios de aceitação para fazer essa verificação, o que facilita a identificação de erros.
+ Este documento visa verificar os Léxicos para detectar os erros e defeitos antes de finalizar o projeto. Os Léxicos serão analisado a forma como foram escritas e organizadaos os Léxicos. Foi utilizado o Checklist com critérios de aceitação para fazer essa verificação, o que facilita a identificação de erros.
 
 ## Checklist - Critérios
 
-1. O Léxico esta classifacodo corretamente?
-2. O Léxico está bem descrita?
+1. O Léxico esta classificado corretamente?
+2. O Léxico está bem descrito?
 3. O Léxico segue um padrão?
-4. O Léxico está compacta? (ou deveria estar dividida)?
+4. O Léxico está compacto? (ou deveria estar dividido)?
 
 ## Inspeção
 
