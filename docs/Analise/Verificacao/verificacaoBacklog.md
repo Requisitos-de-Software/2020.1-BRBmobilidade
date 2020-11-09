@@ -2,12 +2,12 @@
 
  Este documento visa verificar o backlog de produto para detectar os erros e defeitos antes de finalizar o projeto. O backlog será analisado a forma como foram escritas e organizadas as histórias de usuário. Foi utilizado o Checklist com critérios de aceitação para fazer essa verificação, o que facilita a identificação de erros.
 
-## Checklist - Critérios
+## Critérios
 
 1. A história de usuário corresponde à feature e épico?
 2. A história de usuário está bem descrita?
 3. A US segue um padrão?
-4. A história de usuário está compacta? (ou deveria estar dividida?
+4. A história de usuário está compacta? (ou deveria estar dividida?)
 
 ## Inspeção
 
@@ -31,6 +31,8 @@ A inspeção é feita para a verificação de cada US seguindo os critérios des
 | US14     | ✔          |      x    |     ✔      |✔          |
 | US15     | ✔          |      ✔    |     ✔      |✔          |
 | US16     | ✔          |      ✔    |     ✔      |✔          |
+
+## Versionamento
 
 | Versão| Data| Alteração | Integrante |
 | :------------- :|:--------------:| :-----------:|:----------:|
