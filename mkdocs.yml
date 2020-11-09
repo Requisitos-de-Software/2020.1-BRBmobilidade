@@ -23,6 +23,7 @@ nav:
     - Verificação: 
       - Backlog e História de Usuário: Analise/Verificacao/verificacaoBacklog.md
       - Léxicos: Analise/Verificacao/verificacaoLexicos.md
+      - Rich Picture: Analise/Verificacao/verificacaoRichPicture.md
 theme:
   name: null
   custom_dir: mkdocs-material/material

@@ -1,6 +1,6 @@
 # Verificação - Léxios
 
- Este documento visa verificar os Léxios de produto para detectar os erros e defeitos antes de finalizar o projeto. Os Léxios será analisado a forma como foram escritas e organizadas as histórias de usuário. Foi utilizado o Checklist com critérios de aceitação para fazer essa verificação, o que facilita a identificação de erros.
+ Este documento visa verificar os Léxios para detectar os erros e defeitos antes de finalizar o projeto. Os Léxios será analisado a forma como foram escritas e organizadas as histórias de usuário. Foi utilizado o Checklist com critérios de aceitação para fazer essa verificação, o que facilita a identificação de erros.
 
 ## Checklist - Critérios
 
