@@ -18,6 +18,16 @@ nav:
     - Léxicos: Modelagem/lexicos.md
     - NFR: Modelagem/nfr.md
     - Backlog e História de Usuário: Modelagem/backlog-historia.md
+  - Análise:
+    - Validação: Analise/Validacao/prototipo.md
+    - Verificação: 
+      - Backlog e História de Usuário: Analise/Verificacao/verificacaoBacklog.md
+      - Especificação Suplementar: Analise/Verificacao/verificacaoEspecificacao.md
+      - Léxicos: Analise/Verificacao/verificacaoLexicos.md
+      - Rich Picture: Analise/Verificacao/verificacaoRichPicture.md
+      - Cenários: Analise/Verificacao/verificacaoCenarios.md
+      - NFR: Analise/Verificacao/verificacaoNFR.md
+      - Casos de uso: Analise/Verificacao/verificacaoCasoDeUso.md
 theme:
   name: null
   custom_dir: mkdocs-material/material
