@@ -13,6 +13,7 @@
 | ![alt text](images/zenhub.jpeg)| ZenHub |O Zenhub será utilizado para a organização e planejamento do grupo|
 | ![alt text](images/googleDrive.jpeg)| Google Drive |O Google Drive será utilizado para a criação de documentos compartilhaveís entre o grupo|
 | ![alt text](images/telegram.jpeg)| Telegram |O Telegram será utilizado para a comunicação do grupo|
+| ![alt text](images/teams.jpeg)|  Microsoft Teams | O Microsoft Teams será utilizado para gravação das apresentações |
 
 ## Cronograma
 A equipe utilizará um cronograma que separa em módulos cada entrega a ser feita na wiki
@@ -25,3 +26,4 @@ A equipe utilizará um cronograma que separa em módulos cada entrega a ser feit
 | 1.1| 06/09 |Adição das imagens e nomes dos integrantes| [Arthur Paiva](https://github.com/ArthurPaivaT)|
 | 1.2| 07/09 |Adição das Ferramentas utilizadas| [Iago Theóphilo](https://github.com/IagoTheophilo)|
 | 1.3| 19/09 |Adição do cronograma| [Gabriel Hussein](https://github.com/GabrielHussein) e [Danilo Domingo](https://github.com/danilow200)|
+| 1.4| 25/11 |Adição das ferramenta Microsoft Teams| [Iago Theóphilo](https://github.com/IagoTheophilo)|
