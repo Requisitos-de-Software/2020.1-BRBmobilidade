@@ -28,6 +28,8 @@ nav:
       - Cenários: Analise/Verificacao/verificacaoCenarios.md
       - NFR: Analise/Verificacao/verificacaoNFR.md
       - Casos de uso: Analise/Verificacao/verificacaoCasoDeUso.md
+  - Pós-rastreabilidade:
+    - Matriz Forward-From: Pós-rastreabilidade/forward-from.md
 theme:
   name: null
   custom_dir: mkdocs-material/material
