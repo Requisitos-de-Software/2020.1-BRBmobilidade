@@ -1,6 +1,6 @@
 # Léxicos
 
-O léxico é a técnica para descrever símnolos de uma linguagem e seu principal objetivo é identificar palavras peculiares ao meio social da aplicação sob estudo. Cada símbolo é descrito com noção e impacto. Noção sendo o significado do símbolo e impacto descreve o efeito ou uso do símbolo na aplicação. Existem três tipos de léxicos sendo estes estado, verbo ou objeto. Há também sinônimos que são símbolos ou palavras que possuem significado similar a noção. Para a aplicação BRBMobilidade os seguintes léxicos foram levantados:
+O léxico é a técnica para descrever símbolos de uma linguagem e seu principal objetivo é identificar palavras peculiares ao meio social da aplicação sob estudo. Cada símbolo é descrito com noção e impacto. Noção sendo o significado do símbolo e impacto descreve o efeito ou uso do símbolo na aplicação. Existem três tipos de léxicos sendo estes estado, verbo ou objeto. Há também sinônimos que são símbolos ou palavras que possuem significado similar a noção. Para a aplicação BRBMobilidade os seguintes léxicos foram levantados:
 
 ## Léxico 1 - Extrato
 
