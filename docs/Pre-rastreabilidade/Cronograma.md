@@ -1,3 +1,3 @@
 # Cronograma
 
-![alt text](images/cronograma.png)
+![alt text](../images/cronograma.png)
