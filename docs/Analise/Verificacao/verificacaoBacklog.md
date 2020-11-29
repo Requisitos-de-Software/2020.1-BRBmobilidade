@@ -31,9 +31,11 @@ A inspeção é feita para a verificação de cada US seguindo os critérios des
 | US14     | ✔          |      x    |     ✔      |✔          |
 | US15     | ✔          |      ✔    |     ✔      |✔          |
 | US16     | ✔          |      ✔    |     ✔      |✔          |
+| Total    | 100%       |   68.7%   |   100%     |93,7%      |
 
 ## Versionamento
 
 | Versão| Data| Alteração | Integrante |
 | :------------- :|:--------------:| :-----------:|:----------:|
 | 1.0| 08/11 |Adição da verificação do backlog|  [Arthur Paiva](https://github.com/ArthurPaivaT)|
+| 1.1| 29/11 |Adição do nível de aceitação total|  [Arthur Paiva](https://github.com/arthurpaivat)|

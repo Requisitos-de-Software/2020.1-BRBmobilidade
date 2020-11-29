@@ -13,16 +13,18 @@
 
 ## Inspeção
 
-A inspeção é feita para a verificação de cada Léxico seguindo os critérios desccritos acima.
+A inspeção é feita para a verificação de cada NFR seguindo os critérios desccritos acima.
 
-| Cenário| Critério 1 | Critério 2| Critério 3 | Critério 4| Critério 5| Critério 6|
-|----------|------------|-----------|------------|-----------|-----------|-----------|
-| NFR Desempenho | ✔          |      ✔    |     ✔      |✔          |✔          |✔          |
-| NFR Portabilidade | ✔          |      ✔    |     ✔      |✔          |❌          |✔          |
-| NFR Usabilidade| ✔          |      ✔    |     ✔      |✔          |✔          |✔          |
-| NFR Segurança | ✔          |      ✔    |     ✔      |✔          |❌          |✔          |
+| Cenário          |Critério 1|Critério 2|Critério 3|Critério 4|Critério 5|Critério 6|
+|------------------|----------|----------|----------|----------|----------|----------|
+| NFR Desempenho   | ✔        |      ✔   |     ✔    |✔         |✔         |✔         |
+| NFR Portabilidade| ✔        |      ✔   |     ✔    |✔         |❌        |✔         |
+| NFR Usabilidade  | ✔        |      ✔   |     ✔    |✔         |✔         |✔         |
+| NFR Segurança    | ✔        |      ✔   |     ✔    |✔         |❌        |✔         |
+| Total            |100%      |      100%|   100%   |100%      | 50%      |100%      |
 
 ## Versionamento
 | Versão| Data| Alteração | Integrante |
 | :------------- :|:--------------:| :-----------:|:----------:|
 | 1.0| 08/11 |Adição da verificação dos NFRs|  [Gabriel Hussein](https://github.com/GabrielHussein)|
+| 1.1| 29/11 |Adição do nível de aceitação total|  [Arthur Paiva](https://github.com/arthurpaivat)|

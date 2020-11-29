@@ -20,12 +20,14 @@ A inspeção é feita para a verificação de cada Léxico seguindo os critério
 |----------|------------|-----------|------------|-----------|-----------|-----------|-----------|
 | Caso de Uso 1 | ✔          |      ✔    |     ✔      |✔          |✔          |✔          |✔          |
 | Caso de Uso 2 | ✔          |      ✔    |     ✔      |✔          |✔          |✔          |✔          |
-| Caso de Uso 3 | ❌          |      ✔    |     ✔      |✔          |✔          |✔          |✔          |
+| Caso de Uso 3 | ❌         |      ✔    |     ✔      |✔          |✔          |✔          |✔          |
 | Caso de Uso 4 | ✔          |      ✔    |     ✔      |✔          |✔          |✔          |✔          |
-| Caso de Uso 5 | ✔          |      ✔    |     ✔      |✔          |✔          |✔          |❌          |
-| Caso de Uso 6 | ✔          |      ✔    |     ✔      |✔          |❌          |✔          |✔          |
+| Caso de Uso 5 | ✔          |      ✔    |     ✔      |✔          |✔          |✔          |❌         |
+| Caso de Uso 6 | ✔          |      ✔    |     ✔      |✔          |❌         |✔          |✔          |
+| Total         |83.3%       |    100%   |    100%    | 100%      |83.3%      |100%      |83.3%      |
 
 ## Versionamento
 | Versão| Data| Alteração | Integrante |
 | :------------- :|:--------------:| :-----------:|:----------:|
 | 1.0| 08/11 |Adição da verificação dos Cenários|  [Gabriel Hussein](https://github.com/GabrielHussein)|
+| 1.1| 29/11 |Adição do nível de aceitação total|  [Arthur Paiva](https://github.com/arthurpaivat)|

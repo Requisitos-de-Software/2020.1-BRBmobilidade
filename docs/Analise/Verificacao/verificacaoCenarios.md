@@ -19,13 +19,15 @@ A inspeção é feita para a verificação de cada Léxico seguindo os critério
 |----------|------------|-----------|------------|-----------|-----------|-----------|
 | Cenário 1 | ✔          |      ✔    |     ✔      |✔          |✔          |✔          |
 | Cenário 2 | ✔          |      ✔    |     ✔      |✔          |✔          |✔          |
-| Cenário 3 | ❌          |      ✔    |     ✔      |✔          |✔          |✔          |
+| Cenário 3 | ❌         |      ✔    |     ✔      |✔          |✔          |✔          |
 | Cenário 4 | ✔          |      ✔    |     ✔      |✔          |✔          |✔          |
 | Cenário 5 | ✔          |      ✔    |     ✔      |✔          |✔          |✔          |
 | Cenário 6 | ✔          |      ✔    |     ✔      |✔          |✔          |✔          |
-| Cenário 7 | ❌          |      ✔    |     ✔      |✔          |✔          |✔          |
+| Cenário 7 | ❌         |      ✔    |     ✔      |✔          |✔          |✔          |
+| Total     | 71.4%      |    100%   |     100%   |100%       |100%       |100%       |
 
 ## Versionamento
 | Versão| Data| Alteração | Integrante |
 | :------------- :|:--------------:| :-----------:|:----------:|
 | 1.0| 08/11 |Adição da verificação dos Cenários|  [Gabriel Hussein](https://github.com/GabrielHussein)|
+| 1.1| 29/11 |Adição do nível de aceitação total|  [Arthur Paiva](https://github.com/arthurpaivat)|

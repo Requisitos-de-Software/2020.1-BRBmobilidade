@@ -16,7 +16,7 @@ A inspeção é feita para a verificação de cada Léxico seguindo os critério
 | Léxicos  | Critério 1 | Critério 2| Critério 3 | Critério 4|
 |----------|------------|-----------|------------|-----------|
 | Léxico 1 | ✔          |      ✔    |     ✔      |✔          |
-| Léxico 2 | ✔          |      ❌   |     ✔     |❌          |
+| Léxico 2 | ✔          |      ❌   |     ✔      |❌         |
 | Léxico 3 | ✔          |      ✔    |     ✔      |✔          |
 | Léxico 4 | ✔          |      ✔    |     ✔      |✔          |
 | Léxico 5 | ✔          |      ✔    |     ✔      |✔          |
@@ -24,8 +24,10 @@ A inspeção é feita para a verificação de cada Léxico seguindo os critério
 | Léxico 7 | ✔          |      ✔    |     ✔      |✔          |
 | Léxico 8 | ✔          |      ❌   |     ✔      |✔          |
 | Léxico 9 | ✔          |      ❌   |     ✔      |✔          |
+| Total    | 100%       |     66,6% |  100%      |88,8%      |
 
 ## Versionamento
 | Versão| Data| Alteração | Integrante |
 | :------------- :|:--------------:| :-----------:|:----------:|
 | 1.0| 08/11 |Adição da verificação dos Léxicos|  [Danilo Domingo](https://github.com/danilow200)|
+| 1.1| 29/11 |Adição do nível de aceitação total|  [Arthur Paiva](https://github.com/arthurpaivat)|
