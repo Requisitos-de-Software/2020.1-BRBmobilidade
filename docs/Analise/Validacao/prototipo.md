@@ -14,6 +14,7 @@
 ## Referências
 Gerência e Qualidade de Software - Aula 05 - Verificação e Validação. Disponível em :
 [Link](https://www.youtube.com/watch?v=1Y-1zz6rZxo&feature=youtu.be&t=22)
+
 ## Versionamento
 | Versão| Data| Alteração | Integrante |
 | :------------- :|:--------------:| :-----------:|:----------:|
