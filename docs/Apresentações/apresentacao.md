@@ -24,5 +24,5 @@
 | 1.1| 29/09 |Elicitação de Requisitos|  [Iago Theóphilo](https://github.com/IagoTheophilo)|
 | 1.2| 20/10 |Modelagem de Requisitos: Cenários , Léxico, Use Case, Especificação Suplementar.|  [Iago Theóphilo](https://github.com/IagoTheophilo)|
 | 1.3| 29/10 |Modelagem de Requisitos - Ágil (Histórias de Usuário, Backlogs) NFR Framework|  [Iago Theóphilo](https://github.com/IagoTheophilo)|
-| 1.3| 12/11 |Análise de Requisitos: Verificação e Validação|  [Iago Theóphilo](https://github.com/IagoTheophilo)|
-| 1.4| 30/11 |Projeto Final|  [Iago Theóphilo](https://github.com/IagoTheophilo)|
+| 1.4| 12/11 |Análise de Requisitos: Verificação e Validação|  [Iago Theóphilo](https://github.com/IagoTheophilo)|
+| 1.5| 30/11 |Projeto Final|  [Iago Theóphilo](https://github.com/IagoTheophilo)|
