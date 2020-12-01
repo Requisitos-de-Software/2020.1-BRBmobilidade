@@ -13,6 +13,9 @@
 ## Análise de Requisitos: Verificação e Validação
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yJ97gNbbN3M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Projeto Final
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tbseGXwBOPw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## Versionamento
 | Versão| Data| Alteração | Integrante |
@@ -22,3 +25,4 @@
 | 1.2| 20/10 |Modelagem de Requisitos: Cenários , Léxico, Use Case, Especificação Suplementar.|  [Iago Theóphilo](https://github.com/IagoTheophilo)|
 | 1.3| 29/10 |Modelagem de Requisitos - Ágil (Histórias de Usuário, Backlogs) NFR Framework|  [Iago Theóphilo](https://github.com/IagoTheophilo)|
 | 1.3| 12/11 |Análise de Requisitos: Verificação e Validação|  [Iago Theóphilo](https://github.com/IagoTheophilo)|
+| 1.4| 30/11 |Projeto Final|  [Iago Theóphilo](https://github.com/IagoTheophilo)|
